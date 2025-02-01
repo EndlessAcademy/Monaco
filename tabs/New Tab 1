@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/EndlessAcademy/Vortex-Loader/main/Vortex-Script-Loader"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EndlessAcademy/Wood-Loader/main/Wood-Main-Loader"))()
